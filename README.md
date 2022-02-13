@@ -9,7 +9,7 @@ Visual Studio Code (VS code) is a code editor that allows you to write code in a
 
 ### Install VS Code
 
-[Click on this link](https://code.visualstudio.com/download), choose the installer for your machine and follow the instructions the it gives.
+[Click on this link](https://code.visualstudio.com/download), choose the installer for your machine and follow the instructions it gives.
 
 ### Extensions
 
@@ -20,7 +20,7 @@ They can be installed [directly from VS Code](https://code.visualstudio.com/docs
 
 Prettier is an opinionated code formatter with support for several languages (programming, markup, styling, e.t.c) including HTML, CSS and Javascript - Languages you would be dealing with in this course
 
-Once Prettier is installed, follow this steps to finish its configuration
+Once Prettier is installed, follow these steps to finish its configuration
 
  - Open VS Code
  - Click on the settings Icon on the bottom left
