@@ -51,7 +51,7 @@ Google chrome has lots of developer tools to facilitate developement of web appl
 
 As you proceed with your program, you would add whatever plugins to extend chrome's functionality.
 
-##Terminal
+## Terminal
 For the most part of the program, you would be using a command-line interface to interact with your computer. Have a read of [this article](https://towardsdatascience.com/a-quick-guide-to-using-command-line-terminal-96815b97b955) to get an understanding of how it works
 
 **If you haven't already created a [GitHub](https://github.com/signup) account, please do so.**
