@@ -26,7 +26,7 @@ Once Prettier is installed, follow these steps to finish its configuration
  - Click on the settings Icon on the bottom left
  - On the settings page that opens up, Enter **formatter** in the search field
  - Select the dropdown menu on the setting option with the heading **Editor: Default Formatter**
- - Select **Prettier - Code formatter **
+ - Select **Prettier** - **Code formatter**
 
 #### [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 This extension launches a development local Server with live reload feature for your web pages been developed. 
